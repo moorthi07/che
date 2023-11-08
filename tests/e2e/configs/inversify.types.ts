@@ -55,4 +55,8 @@ const EXTERNAL_CLASSES: any = {
 	LocatorLoader: 'LocatorLoader'
 };
 
+const Testing_pv: any = {
+	Test: 'something'
+}
+
 export { TYPES, CLASSES, EXTERNAL_CLASSES };
